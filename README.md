@@ -83,3 +83,6 @@ are the most frequently paired with core products, showing the highest attach ra
 
 10. **Annual Plans** deliver **significantly higher revenue per customer** while **monthly plans domiinate in quantity sold**. Boyh plans generate the highest attached
 Add_on orders, showing strong cross-sell opportunities across subscription types.
+
+## Conclusion
+This dashboard provides a complete view of sales, customer loyalty, product performance, and discount effectiveness. It is interactive, dynamic, and slicer-driven, enabling stakeholders to make data-driven decisions that improve revenue, retention, and product strategy.
